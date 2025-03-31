@@ -1,0 +1,9 @@
+streamlit
+pandas
+gspread
+google-auth
+matplotlib
+seaborn
+requests
+schedule
+
