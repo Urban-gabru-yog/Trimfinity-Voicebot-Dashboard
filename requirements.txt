@@ -6,4 +6,4 @@ matplotlib
 seaborn
 requests
 schedule
-
+plotly
