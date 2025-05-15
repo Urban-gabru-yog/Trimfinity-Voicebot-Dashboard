@@ -7,3 +7,4 @@ seaborn
 requests
 schedule
 plotly
+pip-system-certs
